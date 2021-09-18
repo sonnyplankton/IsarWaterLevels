@@ -1,5 +1,8 @@
 #Ignore scraped data since data can be obtained by running the scrpint
 /ScrapingData/
+/Pickle/
+/Scripts/
 
 #Concatenated Data
 isar_pegel_*
+*.py
