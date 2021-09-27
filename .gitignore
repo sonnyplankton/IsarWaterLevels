@@ -5,6 +5,7 @@
 
 #Concatenated Data
 isar_pegel_*
+[working]*
 *.csv
 *.pkl
 *.py
